@@ -1,0 +1,9 @@
+﻿  Button.cpp
+  Cooler.cpp
+C:\Users\IET-1260\source\repos\Refrigirator\Refrigirator\Cooler.cpp(18,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\IET-1260\source\repos\Refrigirator\Refrigirator\Cooler.cpp(41,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Light.cpp
+  Refrigirator.cpp
+  Sensor.cpp
+  Generating Code...
+  Refrigirator.vcxproj -> C:\Users\IET-1260\source\repos\Refrigirator\x64\Debug\Refrigirator.exe
