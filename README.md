@@ -3,4 +3,4 @@ This project Simulates the working of the Refrigerator with basic functionalitie
 
 System Design : 
 
-![Class Diagram](Design/v2/Refridgirator.png)
+![Class Diagram](Design/v2/Refridgirator.jpg)
